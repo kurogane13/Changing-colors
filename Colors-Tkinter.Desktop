@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Colors Tkinter Console
+Comment=Launches Colors Tkinter Console
+Exec=gnome-terminal -e "python /home/gus/Python-pygames/Colors-Tkinter.py"
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Application;
